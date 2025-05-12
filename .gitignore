@@ -1,5 +1,6 @@
 # Internal structure guidelines document
 STRUCTURE_GUIDELINES.md
+progress_tracker.md
 
 # System files
 .DS_Store
