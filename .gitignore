@@ -1,0 +1,12 @@
+# Internal structure guidelines document
+STRUCTURE_GUIDELINES.md
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
