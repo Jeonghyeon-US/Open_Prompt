@@ -1,4 +1,4 @@
-# AI English Fairy Tale Video Producer for Elementary Students | 초등학생 영어 동화 영상 제작 AI
+# AI English Fairy Tale Video Producer for Elementary Students |
 ## Description |
 
 This is a comprehensive AI agent system designed to help educators and content creators produce high-quality English fairy tale videos for elementary school students. The system systematically gathers requirements, develops educational content aligned with learning objectives, and generates detailed prompts for video generation AI tools.
